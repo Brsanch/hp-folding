@@ -1,0 +1,202 @@
+[
+  {
+    "name": "L14_pseudo_S6",
+    "sequence": "PPHPPHPHPHHHPP",
+    "optimum": 4,
+    "total_folds": 220375,
+    "total_canonical_optima": 10,
+    "methods": {
+      "PERM": {
+        "coverage_pct": 60.0,
+        "n_optimal_seeds": 12,
+        "distinct_optima_reached": 6,
+        "total_optima": 10
+      },
+      "basin_hop": {
+        "coverage_pct": 80.0,
+        "n_optimal_seeds": 12,
+        "distinct_optima_reached": 8,
+        "total_optima": 10
+      },
+      "rep_exch": {
+        "coverage_pct": 80.0,
+        "n_optimal_seeds": 12,
+        "distinct_optima_reached": 8,
+        "total_optima": 10
+      },
+      "saddle_hop": {
+        "coverage_pct": 70.0,
+        "n_optimal_seeds": 12,
+        "distinct_optima_reached": 7,
+        "total_optima": 10
+      },
+      "crossover": {
+        "coverage_pct": 80.0,
+        "n_optimal_seeds": 12,
+        "distinct_optima_reached": 8,
+        "total_optima": 10
+      }
+    },
+    "never_reached": 0
+  },
+  {
+    "name": "L14_mostly_isolated",
+    "sequence": "HPPHPHPPHPHPPH",
+    "optimum": 6,
+    "total_folds": 220375,
+    "total_canonical_optima": 1,
+    "methods": {
+      "PERM": {
+        "coverage_pct": 100.0,
+        "n_optimal_seeds": 12,
+        "distinct_optima_reached": 1,
+        "total_optima": 1
+      },
+      "basin_hop": {
+        "coverage_pct": 100.0,
+        "n_optimal_seeds": 12,
+        "distinct_optima_reached": 1,
+        "total_optima": 1
+      },
+      "rep_exch": {
+        "coverage_pct": 100.0,
+        "n_optimal_seeds": 12,
+        "distinct_optima_reached": 1,
+        "total_optima": 1
+      },
+      "saddle_hop": {
+        "coverage_pct": 100.0,
+        "n_optimal_seeds": 12,
+        "distinct_optima_reached": 1,
+        "total_optima": 1
+      },
+      "crossover": {
+        "coverage_pct": 100.0,
+        "n_optimal_seeds": 12,
+        "distinct_optima_reached": 1,
+        "total_optima": 1
+      }
+    },
+    "never_reached": 0
+  },
+  {
+    "name": "L16_pseudo_S6",
+    "sequence": "PPHPPHPHPHHPPHPH",
+    "optimum": 4,
+    "total_folds": 1604149,
+    "total_canonical_optima": 182,
+    "methods": {
+      "PERM": {
+        "coverage_pct": 6.043956043956044,
+        "n_optimal_seeds": 12,
+        "distinct_optima_reached": 11,
+        "total_optima": 182
+      },
+      "basin_hop": {
+        "coverage_pct": 6.593406593406594,
+        "n_optimal_seeds": 12,
+        "distinct_optima_reached": 12,
+        "total_optima": 182
+      },
+      "rep_exch": {
+        "coverage_pct": 6.593406593406594,
+        "n_optimal_seeds": 12,
+        "distinct_optima_reached": 12,
+        "total_optima": 182
+      },
+      "saddle_hop": {
+        "coverage_pct": 6.043956043956044,
+        "n_optimal_seeds": 12,
+        "distinct_optima_reached": 11,
+        "total_optima": 182
+      },
+      "crossover": {
+        "coverage_pct": 6.593406593406594,
+        "n_optimal_seeds": 12,
+        "distinct_optima_reached": 12,
+        "total_optima": 182
+      }
+    },
+    "never_reached": 133
+  },
+  {
+    "name": "L18_pseudo_S6",
+    "sequence": "PPHPPHPHPHHHHPHPPP",
+    "optimum": 6,
+    "total_folds": 11616669,
+    "total_canonical_optima": 68,
+    "methods": {
+      "PERM": {
+        "coverage_pct": 14.705882352941178,
+        "n_optimal_seeds": 12,
+        "distinct_optima_reached": 10,
+        "total_optima": 68
+      },
+      "basin_hop": {
+        "coverage_pct": 17.647058823529413,
+        "n_optimal_seeds": 12,
+        "distinct_optima_reached": 12,
+        "total_optima": 68
+      },
+      "rep_exch": {
+        "coverage_pct": 17.647058823529413,
+        "n_optimal_seeds": 12,
+        "distinct_optima_reached": 12,
+        "total_optima": 68
+      },
+      "saddle_hop": {
+        "coverage_pct": 14.705882352941178,
+        "n_optimal_seeds": 12,
+        "distinct_optima_reached": 10,
+        "total_optima": 68
+      },
+      "crossover": {
+        "coverage_pct": 16.176470588235293,
+        "n_optimal_seeds": 12,
+        "distinct_optima_reached": 11,
+        "total_optima": 68
+      }
+    },
+    "never_reached": 31
+  },
+  {
+    "name": "L18_mostly_isolated",
+    "sequence": "HPPHPHPPHPHPHPPHPH",
+    "optimum": 8,
+    "total_folds": 11616669,
+    "total_canonical_optima": 1,
+    "methods": {
+      "PERM": {
+        "coverage_pct": 100.0,
+        "n_optimal_seeds": 12,
+        "distinct_optima_reached": 1,
+        "total_optima": 1
+      },
+      "basin_hop": {
+        "coverage_pct": 100.0,
+        "n_optimal_seeds": 7,
+        "distinct_optima_reached": 1,
+        "total_optima": 1
+      },
+      "rep_exch": {
+        "coverage_pct": 100.0,
+        "n_optimal_seeds": 9,
+        "distinct_optima_reached": 1,
+        "total_optima": 1
+      },
+      "saddle_hop": {
+        "coverage_pct": 100.0,
+        "n_optimal_seeds": 5,
+        "distinct_optima_reached": 1,
+        "total_optima": 1
+      },
+      "crossover": {
+        "coverage_pct": 100.0,
+        "n_optimal_seeds": 11,
+        "distinct_optima_reached": 1,
+        "total_optima": 1
+      }
+    },
+    "never_reached": 0
+  }
+]

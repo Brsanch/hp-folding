@@ -1,0 +1,866 @@
+[
+  {
+    "name": "L10_clustered",
+    "optimum": 1,
+    "scatteredness": 0.0,
+    "methods": {
+      "PERM": {
+        "best": 1,
+        "hit_opt": true,
+        "wall": 15.0
+      },
+      "basin_hop": {
+        "best": 1,
+        "hit_opt": true,
+        "wall": 0.88
+      },
+      "rep_exch": {
+        "best": 1,
+        "hit_opt": true,
+        "wall": 0.55
+      },
+      "saddle_hop": {
+        "best": 1,
+        "hit_opt": true,
+        "wall": 15.02
+      },
+      "crossover": {
+        "best": 1,
+        "hit_opt": true,
+        "wall": 15.0
+      }
+    }
+  },
+  {
+    "name": "L10_two_clusters",
+    "optimum": 4,
+    "scatteredness": 0.0,
+    "methods": {
+      "PERM": {
+        "best": 4,
+        "hit_opt": true,
+        "wall": 15.0
+      },
+      "basin_hop": {
+        "best": 4,
+        "hit_opt": true,
+        "wall": 0.89
+      },
+      "rep_exch": {
+        "best": 4,
+        "hit_opt": true,
+        "wall": 0.58
+      },
+      "saddle_hop": {
+        "best": 4,
+        "hit_opt": true,
+        "wall": 15.04
+      },
+      "crossover": {
+        "best": 4,
+        "hit_opt": true,
+        "wall": 15.0
+      }
+    }
+  },
+  {
+    "name": "L10_alternating",
+    "optimum": 0,
+    "scatteredness": 1.0,
+    "methods": {
+      "PERM": {
+        "best": 0,
+        "hit_opt": true,
+        "wall": 15.0
+      },
+      "basin_hop": {
+        "best": 0,
+        "hit_opt": true,
+        "wall": 0.91
+      },
+      "rep_exch": {
+        "best": 0,
+        "hit_opt": true,
+        "wall": 0.56
+      },
+      "saddle_hop": {
+        "best": 0,
+        "hit_opt": true,
+        "wall": 15.01
+      },
+      "crossover": {
+        "best": 0,
+        "hit_opt": true,
+        "wall": 15.0
+      }
+    }
+  },
+  {
+    "name": "L10_separated",
+    "optimum": 2,
+    "scatteredness": 0.5,
+    "methods": {
+      "PERM": {
+        "best": 2,
+        "hit_opt": true,
+        "wall": 15.0
+      },
+      "basin_hop": {
+        "best": 2,
+        "hit_opt": true,
+        "wall": 0.83
+      },
+      "rep_exch": {
+        "best": 2,
+        "hit_opt": true,
+        "wall": 0.53
+      },
+      "saddle_hop": {
+        "best": 2,
+        "hit_opt": true,
+        "wall": 15.02
+      },
+      "crossover": {
+        "best": 2,
+        "hit_opt": true,
+        "wall": 15.0
+      }
+    }
+  },
+  {
+    "name": "L12_clustered",
+    "optimum": 2,
+    "scatteredness": 0.0,
+    "methods": {
+      "PERM": {
+        "best": 2,
+        "hit_opt": true,
+        "wall": 15.0
+      },
+      "basin_hop": {
+        "best": 2,
+        "hit_opt": true,
+        "wall": 0.93
+      },
+      "rep_exch": {
+        "best": 2,
+        "hit_opt": true,
+        "wall": 0.59
+      },
+      "saddle_hop": {
+        "best": 2,
+        "hit_opt": true,
+        "wall": 15.02
+      },
+      "crossover": {
+        "best": 2,
+        "hit_opt": true,
+        "wall": 15.0
+      }
+    }
+  },
+  {
+    "name": "L12_alternating",
+    "optimum": 0,
+    "scatteredness": 1.0,
+    "methods": {
+      "PERM": {
+        "best": 0,
+        "hit_opt": true,
+        "wall": 15.0
+      },
+      "basin_hop": {
+        "best": 0,
+        "hit_opt": true,
+        "wall": 0.97
+      },
+      "rep_exch": {
+        "best": 0,
+        "hit_opt": true,
+        "wall": 0.6
+      },
+      "saddle_hop": {
+        "best": 0,
+        "hit_opt": true,
+        "wall": 15.01
+      },
+      "crossover": {
+        "best": 0,
+        "hit_opt": true,
+        "wall": 15.0
+      }
+    }
+  },
+  {
+    "name": "L12_one_loner",
+    "optimum": 6,
+    "scatteredness": 0.1,
+    "methods": {
+      "PERM": {
+        "best": 6,
+        "hit_opt": true,
+        "wall": 15.0
+      },
+      "basin_hop": {
+        "best": 6,
+        "hit_opt": true,
+        "wall": 1.03
+      },
+      "rep_exch": {
+        "best": 6,
+        "hit_opt": true,
+        "wall": 0.66
+      },
+      "saddle_hop": {
+        "best": 6,
+        "hit_opt": true,
+        "wall": 15.03
+      },
+      "crossover": {
+        "best": 6,
+        "hit_opt": true,
+        "wall": 15.0
+      }
+    }
+  },
+  {
+    "name": "L12_pseudo_S6",
+    "optimum": 2,
+    "scatteredness": 1.0,
+    "methods": {
+      "PERM": {
+        "best": 2,
+        "hit_opt": true,
+        "wall": 15.0
+      },
+      "basin_hop": {
+        "best": 2,
+        "hit_opt": true,
+        "wall": 0.86
+      },
+      "rep_exch": {
+        "best": 2,
+        "hit_opt": true,
+        "wall": 0.54
+      },
+      "saddle_hop": {
+        "best": 2,
+        "hit_opt": true,
+        "wall": 15.02
+      },
+      "crossover": {
+        "best": 2,
+        "hit_opt": true,
+        "wall": 15.0
+      }
+    }
+  },
+  {
+    "name": "L14_clustered",
+    "optimum": 3,
+    "scatteredness": 0.0,
+    "methods": {
+      "PERM": {
+        "best": 3,
+        "hit_opt": true,
+        "wall": 15.0
+      },
+      "basin_hop": {
+        "best": 3,
+        "hit_opt": true,
+        "wall": 1.02
+      },
+      "rep_exch": {
+        "best": 3,
+        "hit_opt": true,
+        "wall": 0.64
+      },
+      "saddle_hop": {
+        "best": 3,
+        "hit_opt": true,
+        "wall": 15.05
+      },
+      "crossover": {
+        "best": 3,
+        "hit_opt": true,
+        "wall": 15.0
+      }
+    }
+  },
+  {
+    "name": "L14_alternating",
+    "optimum": 0,
+    "scatteredness": 1.0,
+    "methods": {
+      "PERM": {
+        "best": 0,
+        "hit_opt": true,
+        "wall": 15.0
+      },
+      "basin_hop": {
+        "best": 0,
+        "hit_opt": true,
+        "wall": 1.04
+      },
+      "rep_exch": {
+        "best": 0,
+        "hit_opt": true,
+        "wall": 0.64
+      },
+      "saddle_hop": {
+        "best": 0,
+        "hit_opt": true,
+        "wall": 15.03
+      },
+      "crossover": {
+        "best": 0,
+        "hit_opt": true,
+        "wall": 15.01
+      }
+    }
+  },
+  {
+    "name": "L14_mostly_isolated",
+    "optimum": 6,
+    "scatteredness": 1.0,
+    "methods": {
+      "PERM": {
+        "best": 6,
+        "hit_opt": true,
+        "wall": 15.0
+      },
+      "basin_hop": {
+        "best": 6,
+        "hit_opt": true,
+        "wall": 0.95
+      },
+      "rep_exch": {
+        "best": 6,
+        "hit_opt": true,
+        "wall": 0.6
+      },
+      "saddle_hop": {
+        "best": 6,
+        "hit_opt": true,
+        "wall": 15.04
+      },
+      "crossover": {
+        "best": 6,
+        "hit_opt": true,
+        "wall": 15.0
+      }
+    }
+  },
+  {
+    "name": "L14_pseudo_S6",
+    "optimum": 4,
+    "scatteredness": 0.5,
+    "methods": {
+      "PERM": {
+        "best": 4,
+        "hit_opt": true,
+        "wall": 15.0
+      },
+      "basin_hop": {
+        "best": 4,
+        "hit_opt": true,
+        "wall": 1.01
+      },
+      "rep_exch": {
+        "best": 4,
+        "hit_opt": true,
+        "wall": 0.64
+      },
+      "saddle_hop": {
+        "best": 4,
+        "hit_opt": true,
+        "wall": 15.04
+      },
+      "crossover": {
+        "best": 4,
+        "hit_opt": true,
+        "wall": 15.0
+      }
+    }
+  },
+  {
+    "name": "L16_clustered",
+    "optimum": 4,
+    "scatteredness": 0.0,
+    "methods": {
+      "PERM": {
+        "best": 4,
+        "hit_opt": true,
+        "wall": 15.0
+      },
+      "basin_hop": {
+        "best": 4,
+        "hit_opt": true,
+        "wall": 1.21
+      },
+      "rep_exch": {
+        "best": 4,
+        "hit_opt": true,
+        "wall": 0.77
+      },
+      "saddle_hop": {
+        "best": 4,
+        "hit_opt": true,
+        "wall": 15.03
+      },
+      "crossover": {
+        "best": 4,
+        "hit_opt": true,
+        "wall": 15.01
+      }
+    }
+  },
+  {
+    "name": "L16_alternating",
+    "optimum": 0,
+    "scatteredness": 1.0,
+    "methods": {
+      "PERM": {
+        "best": 0,
+        "hit_opt": true,
+        "wall": 15.01
+      },
+      "basin_hop": {
+        "best": 0,
+        "hit_opt": true,
+        "wall": 1.19
+      },
+      "rep_exch": {
+        "best": 0,
+        "hit_opt": true,
+        "wall": 0.74
+      },
+      "saddle_hop": {
+        "best": 0,
+        "hit_opt": true,
+        "wall": 15.02
+      },
+      "crossover": {
+        "best": 0,
+        "hit_opt": true,
+        "wall": 15.0
+      }
+    }
+  },
+  {
+    "name": "L16_pseudo_S6",
+    "optimum": 4,
+    "scatteredness": 0.714,
+    "methods": {
+      "PERM": {
+        "best": 4,
+        "hit_opt": true,
+        "wall": 15.01
+      },
+      "basin_hop": {
+        "best": 4,
+        "hit_opt": true,
+        "wall": 1.1
+      },
+      "rep_exch": {
+        "best": 4,
+        "hit_opt": true,
+        "wall": 0.7
+      },
+      "saddle_hop": {
+        "best": 4,
+        "hit_opt": true,
+        "wall": 15.08
+      },
+      "crossover": {
+        "best": 4,
+        "hit_opt": true,
+        "wall": 15.0
+      }
+    }
+  },
+  {
+    "name": "L18_alternating",
+    "optimum": 0,
+    "scatteredness": 1.0,
+    "methods": {
+      "PERM": {
+        "best": 0,
+        "hit_opt": true,
+        "wall": 15.01
+      },
+      "basin_hop": {
+        "best": 0,
+        "hit_opt": true,
+        "wall": 1.32
+      },
+      "rep_exch": {
+        "best": 0,
+        "hit_opt": true,
+        "wall": 0.82
+      },
+      "saddle_hop": {
+        "best": 0,
+        "hit_opt": true,
+        "wall": 15.03
+      },
+      "crossover": {
+        "best": 0,
+        "hit_opt": true,
+        "wall": 15.0
+      }
+    }
+  },
+  {
+    "name": "L18_pseudo_S6",
+    "optimum": 6,
+    "scatteredness": 0.5,
+    "methods": {
+      "PERM": {
+        "best": 6,
+        "hit_opt": true,
+        "wall": 15.01
+      },
+      "basin_hop": {
+        "best": 6,
+        "hit_opt": true,
+        "wall": 1.1
+      },
+      "rep_exch": {
+        "best": 6,
+        "hit_opt": true,
+        "wall": 0.7
+      },
+      "saddle_hop": {
+        "best": 6,
+        "hit_opt": true,
+        "wall": 15.09
+      },
+      "crossover": {
+        "best": 6,
+        "hit_opt": true,
+        "wall": 15.0
+      }
+    }
+  },
+  {
+    "name": "L18_mostly_isolated",
+    "optimum": 8,
+    "scatteredness": 1.0,
+    "methods": {
+      "PERM": {
+        "best": 8,
+        "hit_opt": true,
+        "wall": 15.01
+      },
+      "basin_hop": {
+        "best": 8,
+        "hit_opt": true,
+        "wall": 1.07
+      },
+      "rep_exch": {
+        "best": 8,
+        "hit_opt": true,
+        "wall": 0.7
+      },
+      "saddle_hop": {
+        "best": 8,
+        "hit_opt": true,
+        "wall": 15.03
+      },
+      "crossover": {
+        "best": 8,
+        "hit_opt": true,
+        "wall": 15.0
+      }
+    }
+  },
+  {
+    "name": "L22_clustered",
+    "optimum": 6,
+    "scatteredness": 0.0,
+    "methods": {
+      "PERM": {
+        "best": 6,
+        "hit_opt": true,
+        "wall": 15.01
+      },
+      "basin_hop": {
+        "best": 6,
+        "hit_opt": true,
+        "wall": 1.32
+      },
+      "rep_exch": {
+        "best": 6,
+        "hit_opt": true,
+        "wall": 0.85
+      },
+      "saddle_hop": {
+        "best": 6,
+        "hit_opt": true,
+        "wall": 15.08
+      },
+      "crossover": {
+        "best": 6,
+        "hit_opt": true,
+        "wall": 15.0
+      }
+    }
+  },
+  {
+    "name": "L22_alternating",
+    "optimum": 0,
+    "scatteredness": 1.0,
+    "methods": {
+      "PERM": {
+        "best": 0,
+        "hit_opt": true,
+        "wall": 15.01
+      },
+      "basin_hop": {
+        "best": 0,
+        "hit_opt": true,
+        "wall": 1.38
+      },
+      "rep_exch": {
+        "best": 0,
+        "hit_opt": true,
+        "wall": 0.86
+      },
+      "saddle_hop": {
+        "best": 0,
+        "hit_opt": true,
+        "wall": 15.05
+      },
+      "crossover": {
+        "best": 0,
+        "hit_opt": true,
+        "wall": 15.0
+      }
+    }
+  },
+  {
+    "name": "L22_pseudo_S6_a",
+    "optimum": 7,
+    "scatteredness": 0.556,
+    "methods": {
+      "PERM": {
+        "best": 7,
+        "hit_opt": true,
+        "wall": 15.01
+      },
+      "basin_hop": {
+        "best": 7,
+        "hit_opt": true,
+        "wall": 1.24
+      },
+      "rep_exch": {
+        "best": 7,
+        "hit_opt": true,
+        "wall": 0.8
+      },
+      "saddle_hop": {
+        "best": 7,
+        "hit_opt": true,
+        "wall": 15.09
+      },
+      "crossover": {
+        "best": 7,
+        "hit_opt": true,
+        "wall": 15.01
+      }
+    }
+  },
+  {
+    "name": "L22_pseudo_S6_b",
+    "optimum": 9,
+    "scatteredness": 0.5,
+    "methods": {
+      "PERM": {
+        "best": 9,
+        "hit_opt": true,
+        "wall": 15.01
+      },
+      "basin_hop": {
+        "best": 8,
+        "hit_opt": false,
+        "wall": 1.26
+      },
+      "rep_exch": {
+        "best": 9,
+        "hit_opt": true,
+        "wall": 0.83
+      },
+      "saddle_hop": {
+        "best": 9,
+        "hit_opt": true,
+        "wall": 15.09
+      },
+      "crossover": {
+        "best": 9,
+        "hit_opt": true,
+        "wall": 15.01
+      }
+    }
+  },
+  {
+    "name": "L22_mostly_isolated",
+    "optimum": 8,
+    "scatteredness": 1.0,
+    "methods": {
+      "PERM": {
+        "best": 8,
+        "hit_opt": true,
+        "wall": 15.01
+      },
+      "basin_hop": {
+        "best": 8,
+        "hit_opt": true,
+        "wall": 1.21
+      },
+      "rep_exch": {
+        "best": 7,
+        "hit_opt": false,
+        "wall": 0.79
+      },
+      "saddle_hop": {
+        "best": 8,
+        "hit_opt": true,
+        "wall": 15.08
+      },
+      "crossover": {
+        "best": 8,
+        "hit_opt": true,
+        "wall": 15.0
+      }
+    }
+  },
+  {
+    "name": "L26_clustered",
+    "optimum": 6,
+    "scatteredness": 0.0,
+    "methods": {
+      "PERM": {
+        "best": 7,
+        "hit_opt": false,
+        "wall": 15.01
+      },
+      "basin_hop": {
+        "best": 7,
+        "hit_opt": false,
+        "wall": 1.42
+      },
+      "rep_exch": {
+        "best": 7,
+        "hit_opt": false,
+        "wall": 0.92
+      },
+      "saddle_hop": {
+        "best": 7,
+        "hit_opt": false,
+        "wall": 15.1
+      },
+      "crossover": {
+        "best": 7,
+        "hit_opt": false,
+        "wall": 15.0
+      }
+    }
+  },
+  {
+    "name": "L26_pseudo_S6",
+    "optimum": 7,
+    "scatteredness": 0.6,
+    "methods": {
+      "PERM": {
+        "best": 6,
+        "hit_opt": false,
+        "wall": 15.01
+      },
+      "basin_hop": {
+        "best": 8,
+        "hit_opt": false,
+        "wall": 1.32
+      },
+      "rep_exch": {
+        "best": 7,
+        "hit_opt": true,
+        "wall": 0.85
+      },
+      "saddle_hop": {
+        "best": 7,
+        "hit_opt": true,
+        "wall": 15.11
+      },
+      "crossover": {
+        "best": 8,
+        "hit_opt": false,
+        "wall": 15.0
+      }
+    }
+  },
+  {
+    "name": "L26_mostly_isolated",
+    "optimum": 8,
+    "scatteredness": 1.0,
+    "methods": {
+      "PERM": {
+        "best": 9,
+        "hit_opt": false,
+        "wall": 15.01
+      },
+      "basin_hop": {
+        "best": 9,
+        "hit_opt": false,
+        "wall": 1.27
+      },
+      "rep_exch": {
+        "best": 9,
+        "hit_opt": false,
+        "wall": 0.83
+      },
+      "saddle_hop": {
+        "best": 9,
+        "hit_opt": false,
+        "wall": 15.08
+      },
+      "crossover": {
+        "best": 9,
+        "hit_opt": false,
+        "wall": 15.0
+      }
+    }
+  },
+  {
+    "name": "L26_alternating",
+    "optimum": 0,
+    "scatteredness": 1.0,
+    "methods": {
+      "PERM": {
+        "best": 0,
+        "hit_opt": true,
+        "wall": 15.01
+      },
+      "basin_hop": {
+        "best": 0,
+        "hit_opt": true,
+        "wall": 1.5
+      },
+      "rep_exch": {
+        "best": 0,
+        "hit_opt": true,
+        "wall": 0.94
+      },
+      "saddle_hop": {
+        "best": 0,
+        "hit_opt": true,
+        "wall": 15.06
+      },
+      "crossover": {
+        "best": 0,
+        "hit_opt": true,
+        "wall": 15.01
+      }
+    }
+  }
+]

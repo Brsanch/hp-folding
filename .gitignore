@@ -1,0 +1,64 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+*.egg
+*.egg-info/
+dist/
+build/
+.eggs/
+
+# venvs
+.venv/
+venv/
+env/
+ENV/
+
+# uv
+.uv/
+
+# Testing / coverage
+.pytest_cache/
+.coverage
+.coverage.*
+htmlcov/
+.tox/
+.nox/
+
+# Tooling caches
+.ruff_cache/
+.mypy_cache/
+.dmypy.json
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Results / runs (local only; uncomment the next line to version results)
+results/
+logs/
+*.log
+*_results/
+state/
+diagnostics/wl*/
+diagnostics/hybrid*/
+scout_kb/
+shape_candidates/
+
+# Deprecated nested checkout
+VA-HP-Lattice/
+
+# LaTeX build artifacts
+*.aux
+*.out
+*.fdb_latexmk
+*.fls
+*.synctex.gz

@@ -1,0 +1,48 @@
+{
+  "S5": {
+    "sid": "S5",
+    "target": 23,
+    "best_seen": 23,
+    "n_replicates": 3,
+    "successful": 3,
+    "median_time_to_target_s": 255.90574970806483,
+    "min_time_to_target_s": 227.92029216699302,
+    "max_time_to_target_s": 264.45726549997926
+  },
+  "S7": {
+    "sid": "S7",
+    "target": 36,
+    "best_seen": 36,
+    "n_replicates": 3,
+    "successful": 1,
+    "median_time_to_target_s": 392.7670575840166,
+    "min_time_to_target_s": 392.7670575840166,
+    "max_time_to_target_s": 392.7670575840166
+  },
+  "S8": {
+    "sid": "S8",
+    "target": 42,
+    "best_seen": 41,
+    "n_replicates": 3,
+    "successful": 0,
+    "median_time_to_target_s": null
+  },
+  "S9": {
+    "sid": "S9",
+    "target": 52,
+    "best_seen": 52,
+    "n_replicates": 3,
+    "successful": 2,
+    "median_time_to_target_s": 537.3090621669544,
+    "min_time_to_target_s": 530.9086382499663,
+    "max_time_to_target_s": 537.3090621669544
+  },
+  "S10": {
+    "sid": "S10",
+    "target": 49,
+    "best_seen": 48,
+    "n_replicates": 3,
+    "successful": 0,
+    "median_time_to_target_s": null
+  }
+}

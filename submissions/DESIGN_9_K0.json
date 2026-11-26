@@ -1,0 +1,126 @@
+{
+  "sequence_id": "DESIGN_9_K0",
+  "sequence": "HPPHPPHPPHPPHPPHPPHPPHPPH",
+  "n_residues": 25,
+  "n_h_residues": 9,
+  "K_sequential_hh": 0,
+  "parity_feasible_pairs": 20,
+  "h_runs": [
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1
+  ],
+  "theoretical_max_contacts": 12,
+  "achieved_contacts": 8,
+  "achieved_fraction_of_theoretical": 0.6666666666666666,
+  "coords": [
+    [
+      118,
+      -36
+    ],
+    [
+      117,
+      -36
+    ],
+    [
+      117,
+      -37
+    ],
+    [
+      118,
+      -37
+    ],
+    [
+      118,
+      -38
+    ],
+    [
+      119,
+      -38
+    ],
+    [
+      119,
+      -37
+    ],
+    [
+      119,
+      -36
+    ],
+    [
+      119,
+      -35
+    ],
+    [
+      118,
+      -35
+    ],
+    [
+      117,
+      -35
+    ],
+    [
+      117,
+      -34
+    ],
+    [
+      118,
+      -34
+    ],
+    [
+      119,
+      -34
+    ],
+    [
+      119,
+      -33
+    ],
+    [
+      118,
+      -33
+    ],
+    [
+      117,
+      -33
+    ],
+    [
+      117,
+      -32
+    ],
+    [
+      118,
+      -32
+    ],
+    [
+      119,
+      -32
+    ],
+    [
+      119,
+      -31
+    ],
+    [
+      118,
+      -31
+    ],
+    [
+      118,
+      -30
+    ],
+    [
+      117,
+      -30
+    ],
+    [
+      117,
+      -31
+    ]
+  ],
+  "search_methodology": "SA + Davis 2016 move proportions + FRW + LMW pull",
+  "search_compute": "14 parallel chains \u00d7 4,000,000 MC steps"
+}
