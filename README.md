@@ -6,6 +6,8 @@ In the 2D HP lattice model (Dill 1985; Lau & Dill 1989), a sequence $s \in \{\ma
 
 ## Manuscript
 
+**Preprint. Not peer reviewed.**
+
 - **Paper:** [`paper/hp_folding_cpsat_optimality.pdf`](paper/hp_folding_cpsat_optimality.pdf) ([LaTeX source](paper/hp_folding_cpsat_optimality.tex)) — *Certified Optimality and a Spanning-Tree Core Diameter Bound for 2D HP Lattice Protein Folding* (Bryan Sanchez, ORCID [`0009-0000-6080-5407`](https://orcid.org/0009-0000-6080-5407)).
 - **Pinned Release:** [`v1.0.0`](https://github.com/Brsanch/hp-folding/releases/tag/v1.0.0) (Apache-2.0 [`LICENSE`](LICENSE)).
 - **Prior-Art Context:** Optimal contact counts and exact degeneracies for canonical 2D benchmarks up to length 85 (S5 = 23, HH-prefix `2D50` = 21, S7 = 36, S8 = 42, S9 = 53) were first established via the specialized exact branch-and-bound algorithm `minwalk` (Giaquinta & Pozzi, *J. Comput. Biol.* 20(8):593--609, 2013). Meanwhile, Chen & Huang (*Genomics Proteomics Bioinformatics* 3(4):225--230, 2005, Table 1) paired a four-residue PP-prefix variant (`PPHP...`, $n_H = 22$, our S6) with target energy $-21$. This repository provides:
